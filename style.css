@@ -85,7 +85,7 @@ p {
     position: relative;
     z-index: 5;
     min-height: 20px;
-    padding: 20px;
+    padding: 15px;
     color: white;
     background-image:
       linear-gradient(45deg, #34495e 25%, transparent 25%),
@@ -115,6 +115,7 @@ p {
   
   .main-menu a {
     color: white;
+    
   }
   
   /* Основное содержание */
@@ -139,4 +140,9 @@ code {
   color: #c0392b;
   background-color: white;
   box-shadow: 0 0 2px #cccccc;
+}
+
+.download {
+  padding: 15px;
+  text-align: center;
 }
